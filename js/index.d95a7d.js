@@ -10,19 +10,17 @@ if(!window.HTMLPictureElement){r();}
 wl=new woolite();
 wl.init();
 wl.addAnimation($('.js1')[0], "1.00s", "0.50s", 1, 100);
-wl.addAnimation($('.js2')[0], "1.00s", "5.00s", 1, 100);
-wl.addAnimation($('.js3')[0], "1.00s", "4.00s", 1, 100);
+wl.addAnimation($('.js2')[0], "1.00s", "4.00s", 1, 100);
+wl.addAnimation($('.js3')[0], "1.00s", "4.60s", 1, 100);
 wl.addAnimation($('.js4')[0], "1.00s", "5.00s", 1, 100);
-wl.addAnimation($('.js5')[0], "1.00s", "6.00s", 1, 100);
-wl.addAnimation($('.js6')[0], "1.00s", "7.00s", 1, 100);
+wl.addAnimation($('.js5')[0], "1.00s", "5.60s", 1, 100);
+wl.addAnimation($('.js6')[0], "1.00s", "6.60s", 1, 100);
 wl.addAnimation($('.js8')[0], "1.00s", "6.00s", 1, 100);
-wl.addAnimation($('.js9')[0], "1.00s", "7.00s", 1, 100);
+wl.addAnimation($('.js9')[0], "1.00s", "8.00s", 1, 100);
 wl.addAnimation($('.js10')[0], "1.00s", "8.00s", 1, 100);
-wl.addAnimation($('.js11')[0], "1.00s", "9.00s", 1, 100);
-wl.addAnimation($('.js12')[0], "1.00s", "8.00s", 1, 100);
-wl.addAnimation($('.js13')[0], "1.00s", "2.00s", 1, 100);
-wl.addAnimation($('.js14')[0], "1.00s", "10.00s", 1, 100);
-wl.addAnimation($('.js15')[0], "1.00s", "11.00s", 1, 100);
+wl.addAnimation($('.js11')[0], "1.00s", "2.00s", 1, 100);
+wl.addAnimation($('.js12')[0], "1.00s", "10.00s", 1, 100);
+wl.addAnimation($('.js13')[0], "1.00s", "11.00s", 1, 100);
 wl.start();
 
 });
