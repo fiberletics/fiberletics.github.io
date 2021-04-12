@@ -7,8 +7,8 @@ $(function(){
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 wl=new woolite();
 wl.init();
-wl.addAnimation($('.js27')[0], "1.00s", "10.00s", 1, 100);
 wl.addAnimation($('.js28')[0], "1.00s", "10.00s", 1, 100);
+wl.addAnimation($('.js29')[0], "1.00s", "10.00s", 1, 100);
 wl.start();
 
 });
