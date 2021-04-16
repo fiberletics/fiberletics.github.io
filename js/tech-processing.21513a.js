@@ -7,7 +7,7 @@ $(function(){
 r=function(){dpi=window.devicePixelRatio;var e=document.querySelector('.js23');e.setAttribute('src',(dpi>1)?'images/htb1flbmarj1gk0jszfu763rhpxa1-238.png':'images/htb1flbmarj1gk0jszfu763rhpxa1-119.png');
 var e=document.querySelector('.js24');e.setAttribute('src',(dpi>1)?'images/microchip-308.png':'images/microchip-154.png');
 var e=document.querySelector('.js25');e.setAttribute('src',(dpi>1)?'images/bluetooth-controller2-244.png':'images/bluetooth-controller2-122.png');
-var e=document.querySelector('.js26');e.setAttribute('src',(dpi>1)?'images/bsam9-1--534.png':'images/bsam9-1--267.png');};
+var e=document.querySelector('.js26');e.setAttribute('src',(dpi>1)?'images/bsam9-1--774.png':'images/bsam9-1--387.png');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 wl=new woolite();
